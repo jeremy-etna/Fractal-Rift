@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 91a3a863aa01d5c4095c753836e3c834, type: 3}
+  m_Name: UnitDataBrute
+  m_EditorClassIdentifier: 
+  unitName: Brute
+  tile: {fileID: 0}
+  maxHealthPoints: 5
+  maxActionPoints: 3
+  movementPoints: 2
+  capacities:
+  - {fileID: 11400000, guid: 264ee686811409f44873bd51a4a8a80d, type: 2}
+  - {fileID: 11400000, guid: 35e65ca906bed104e9f7ea131263f932, type: 2}
+  modelPrefab: {fileID: 1906838960718743154, guid: 2fcd0f3dac661d543a950e64b425dd11,
+    type: 3}

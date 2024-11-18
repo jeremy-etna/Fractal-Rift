@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2674280068892964419
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2386141295793177241}
+  - component: {fileID: 1223824433143921064}
+  m_Layer: 0
+  m_Name: BattleManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2386141295793177241
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2674280068892964419}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1223824433143921064
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2674280068892964419}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3afe62684b0085142b8ec29c4ec3a43a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  gridBuilderPrefab: {fileID: 6075533049635796085, guid: f7dce128442998449971597d2f7fea8c,
+    type: 3}
+  movementManagerPrefab: {fileID: 6148175591975363132, guid: 63828fc36b9fc8a45a6380725fff8d6e,
+    type: 3}
+  capacityManagerPrefab: {fileID: 1781178059399649731, guid: 407b9bd878f5c5e419777792dc7c527d,
+    type: 3}
+  teamBuilderPrefab: {fileID: 6355554370365596823, guid: 2467c72d269c98e4a967470380aa16c3,
+    type: 3}
+  portalPrefab: {fileID: 8942361753432044315, guid: 4a9593b06774536429ceb2ffb76255f0,
+    type: 3}
+  chestPrefab: {fileID: 2188731516819326462, guid: 7a5b6ea821a495e4a8ff1bb824b37f6d,
+    type: 3}
+  state: 0

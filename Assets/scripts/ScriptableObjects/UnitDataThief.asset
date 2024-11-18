@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 91a3a863aa01d5c4095c753836e3c834, type: 3}
+  m_Name: UnitDataThief
+  m_EditorClassIdentifier: 
+  unitName: Thief
+  tile: {fileID: 0}
+  maxHealthPoints: 3
+  maxActionPoints: 3
+  movementPoints: 4
+  capacities:
+  - {fileID: 11400000, guid: 264ee686811409f44873bd51a4a8a80d, type: 2}
+  - {fileID: 11400000, guid: 61b234fa4574bba41b343f3ebe63800e, type: 2}
+  modelPrefab: {fileID: 5470399290451402860, guid: 345ff84e8ba18954c94e4686d228f25c,
+    type: 3}

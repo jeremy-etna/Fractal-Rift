@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+<<<<<<< HEAD
+guid: dbbe266895e79f64f928dc9184db0e95
+=======
+guid: fd3ed2621c659604f934abaa45fae06e
+>>>>>>> 9903f6d (feat/First draft game state and character hud)
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

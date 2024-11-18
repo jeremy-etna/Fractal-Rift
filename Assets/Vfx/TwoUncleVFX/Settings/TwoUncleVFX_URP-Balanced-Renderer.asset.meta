@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: aa64153ef06cfe74c8d48eac11f61d46
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 288049
+  packageName: VFX Graph - Chi Spiral
+  packageVersion: 1.0
+  assetPath: Assets/TwoUncleVFX/Settings/TwoUncleVFX_URP-Balanced-Renderer.asset
+  uploadId: 676918

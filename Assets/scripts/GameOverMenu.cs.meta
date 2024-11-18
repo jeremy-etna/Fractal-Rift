@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 217f35d045427864b9b29dd80ddc8fce
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - GameOverVictoryBackground: {fileID: 21300000, guid: c5939de7c60e75c49ab2637b91200292,
+      type: 3}
+  - GameOverDefeatBackground: {fileID: 21300000, guid: 6721414667a89d945b54a44689818fd7,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
